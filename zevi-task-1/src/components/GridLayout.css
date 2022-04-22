@@ -1,0 +1,22 @@
+.gridLayout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.inputButtons {
+  min-width: 200px;
+  min-height: 40px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.senetenceText {
+  min-width: 200px;
+  min-height: 40px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}
